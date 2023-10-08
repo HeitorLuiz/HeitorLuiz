@@ -8,7 +8,7 @@
 
 ##
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorLuiz&show=reviews&show_icons=true&theme=tokyonight)
+ ![Heitor Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorLuiz&show_icons=true&theme=tokyonight)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorLuiz&layout=donut)
 
 ##
