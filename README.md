@@ -8,6 +8,8 @@
 
 ##
 
+ [![Heitor Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorLuiz&show_icons=true&theme=tokyonight)](https://github.com/HeitorLuiz/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorLuiz&layout=donut)](https://github.com/HeitorLuiz/github-readme-stats)
 
 ##
 
