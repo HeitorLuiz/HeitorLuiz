@@ -3,8 +3,6 @@
 - 🔭 Atualmente estudando e me aprofundando em conhecer cada vez mais o ecossistema Salesforce.
 - 🌱 Salesforce | HTML5 | CSS3 | JavaScript | React | MySQL
 - 📍 Localização: Recife/PE
-- 💬 Pergunte-me sobre: Filmes antigos 😁🎬
-- ⚡ Fun fact: Aliens Exist 👽👾🛸
 
 ##
 
