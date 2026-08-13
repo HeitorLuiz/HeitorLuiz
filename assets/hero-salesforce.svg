@@ -1,0 +1,183 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06101F"/>
+      <stop offset="0.55" stop-color="#0A192F"/>
+      <stop offset="1" stop-color="#032D60"/>
+    </linearGradient>
+
+    <linearGradient id="line" x1="140" y1="60" x2="1060" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00A1E0" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00A1E0" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#00A1E0" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="glow">
+      <stop stop-color="#00A1E0" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#00A1E0" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+
+    <style>
+      .title {
+        font: 700 52px Arial, Helvetica, sans-serif;
+        letter-spacing: 5px;
+        fill: #FFFFFF;
+      }
+      .subtitle {
+        font: 600 23px Arial, Helvetica, sans-serif;
+        letter-spacing: 2px;
+        fill: #00A1E0;
+      }
+      .skills {
+        font: 400 16px Arial, Helvetica, sans-serif;
+        letter-spacing: 1.8px;
+        fill: #C1CED9;
+      }
+      .label {
+        font: 700 12px Arial, Helvetica, sans-serif;
+        letter-spacing: 1.5px;
+        fill: #FFFFFF;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+
+  <!-- Ambient glow -->
+  <circle cx="930" cy="165" r="220" fill="url(#glow)" filter="url(#blur)">
+    <animate attributeName="opacity" values="0.45;0.75;0.45" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="180" cy="290" r="160" fill="url(#glow)" filter="url(#blur)" opacity="0.25"/>
+
+  <!-- Decorative grid -->
+  <g opacity="0.08" stroke="#7DD3FC" stroke-width="1">
+    <path d="M0 70H1200"/>
+    <path d="M0 140H1200"/>
+    <path d="M0 210H1200"/>
+    <path d="M0 280H1200"/>
+    <path d="M100 0V360"/>
+    <path d="M250 0V360"/>
+    <path d="M400 0V360"/>
+    <path d="M550 0V360"/>
+    <path d="M700 0V360"/>
+    <path d="M850 0V360"/>
+    <path d="M1000 0V360"/>
+    <path d="M1150 0V360"/>
+  </g>
+
+  <!-- Animated connection lines -->
+  <path d="M90 270 C250 210, 300 300, 430 245 S680 160, 800 210 S1030 280, 1150 150"
+        stroke="url(#line)" stroke-width="2" fill="none" stroke-dasharray="8 14">
+    <animate attributeName="stroke-dashoffset" from="0" to="-220" dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <path d="M65 110 C210 175, 310 80, 450 130 S700 230, 840 125 S1030 70, 1140 115"
+        stroke="#00A1E0" stroke-opacity="0.14" stroke-width="1.5" fill="none" stroke-dasharray="4 18">
+    <animate attributeName="stroke-dashoffset" from="0" to="180" dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Salesforce cloud -->
+  <g transform="translate(95 62)">
+    <circle cx="52" cy="72" r="38" fill="#00A1E0" opacity="0.14" filter="url(#soft)">
+      <animate attributeName="r" values="34;43;34" dur="4s" repeatCount="indefinite"/>
+    </circle>
+
+    <path d="M31 91
+             C15 91 5 80 5 66
+             C5 52 16 41 30 40
+             C37 21 54 10 74 10
+             C96 10 114 25 118 46
+             C133 48 144 59 144 74
+             C144 91 131 102 115 102
+             H31Z"
+          fill="#00A1E0"/>
+
+    <path d="M31 91
+             C15 91 5 80 5 66
+             C5 52 16 41 30 40
+             C37 21 54 10 74 10
+             C96 10 114 25 118 46
+             C133 48 144 59 144 74
+             C144 91 131 102 115 102
+             H31Z"
+          fill="none" stroke="#7DD3FC" stroke-opacity="0.55" stroke-width="2"/>
+
+    <text x="74" y="70" text-anchor="middle" class="label">SALESFORCE</text>
+  </g>
+
+  <!-- Main identity -->
+  <g>
+    <text x="600" y="122" text-anchor="middle" class="title">
+      HEITOR LUIZ
+      <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+    </text>
+
+    <text x="600" y="168" text-anchor="middle" class="subtitle">
+      SALESFORCE DEVELOPER
+      <animate attributeName="opacity" values="0;1" begin="0.4s" dur="1.2s" fill="freeze"/>
+    </text>
+
+    <text x="600" y="202" text-anchor="middle" class="skills">
+      Apex  •  LWC  •  Flow  •  SOQL  •  Agentforce  •  Integrations
+      <animate attributeName="opacity" values="0;1" begin="0.8s" dur="1.2s" fill="freeze"/>
+    </text>
+  </g>
+
+  <!-- Floating technology nodes -->
+  <g>
+    <circle cx="430" cy="270" r="7" fill="#00A1E0">
+      <animate attributeName="cy" values="270;258;270" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="430" y="295" text-anchor="middle" class="label">APEX</text>
+
+    <circle cx="600" cy="260" r="7" fill="#00A1E0">
+      <animate attributeName="cy" values="260;247;260" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="600" y="285" text-anchor="middle" class="label">LWC</text>
+
+    <circle cx="770" cy="270" r="7" fill="#00A1E0">
+      <animate attributeName="cy" values="270;258;270" dur="3.7s" repeatCount="indefinite"/>
+    </circle>
+    <text x="770" y="295" text-anchor="middle" class="label">FLOW</text>
+
+    <circle cx="940" cy="245" r="7" fill="#00A1E0">
+      <animate attributeName="cy" values="245;232;245" dur="4.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="940" y="270" text-anchor="middle" class="label">AGENTFORCE</text>
+  </g>
+
+  <!-- Moving particles -->
+  <g fill="#7DD3FC">
+    <circle cx="260" cy="70" r="2">
+      <animate attributeName="opacity" values="0.15;1;0.15" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1020" cy="310" r="2">
+      <animate attributeName="opacity" values="1;0.15;1" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1080" cy="85" r="1.8">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350" cy="325" r="1.5">
+      <animate attributeName="opacity" values="1;0.2;1" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Bottom accent -->
+  <rect x="250" y="328" width="700" height="1" fill="#00A1E0" opacity="0.35">
+    <animate attributeName="width" values="500;700;500" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="350;250;350" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Border -->
+  <rect x="1" y="1" width="1198" height="358" rx="22" stroke="#00A1E0" stroke-opacity="0.18"/>
+</svg>
