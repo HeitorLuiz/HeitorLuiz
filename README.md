@@ -168,7 +168,7 @@ Portfolio desenvolvido para apresentar minha trajetória, projetos, estudos e ev
 
 </div>
 
-## Statistics
+## 📊 Statistics
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=HeitorLuiz&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Heitor GitHub Stats" height="200"/>
