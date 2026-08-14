@@ -21,7 +21,7 @@ Sou **Desenvolvedor Salesforce**, focado em aprofundar meus conhecimentos no eco
 
 Também possuo conhecimentos em desenvolvimento web e software, buscando combinar **desenvolvimento, cloud, APIs e automação** para construir soluções cada vez mais completas.
 
-📍 **Recife, Pernambuco — Brasil**
+📍 **Recife, Pernambuco - Brasil**
 
 ---
 
