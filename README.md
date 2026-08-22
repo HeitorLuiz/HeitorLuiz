@@ -173,7 +173,7 @@ Portfolio desenvolvido para apresentar minha trajetória, projetos, estudos e ev
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=HeitorLuiz&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Heitor GitHub Stats" height="200"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HeitorLuiz&layout=donut&theme=tokyonight&border_radius=10" alt="Heitor Top Languages" height="200"/>
-  <img src="https://streak-stats.demolab.com?user=HeitorLuiz&theme=tokyonight" alt="Heitor GitHub Streak" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=HeitorLuiz&theme=tokyonight&hide_border=true" alt="Heitor GitHub Streak" height="200"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HeitorLuiz&theme=github_dark&utcOffset=-3" alt="Heitor Productive Time" height="200"/>
 </p>
 
