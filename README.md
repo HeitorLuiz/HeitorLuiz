@@ -80,9 +80,9 @@ Também possuo conhecimentos em desenvolvimento web e software, buscando combina
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/410K%2B-Trailhead%20Points-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="430K+ Trailhead Points">
-<img src="https://img.shields.io/badge/760%2B-Modules-032D60?style=for-the-badge" alt="800+ Modules">
-<img src="https://img.shields.io/badge/47-Superbadges-00A1E0?style=for-the-badge" alt="49 Superbadges">
+<img src="https://img.shields.io/badge/430K%2B-Trailhead%20Points-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="430K+ Trailhead Points">
+<img src="https://img.shields.io/badge/800%2B-Modules-032D60?style=for-the-badge" alt="800+ Modules">
+<img src="https://img.shields.io/badge/49-Superbadges-00A1E0?style=for-the-badge" alt="49 Superbadges">
 <img src="https://img.shields.io/badge/150%2B-Trails-032D60?style=for-the-badge" alt="150+ Trails">
 
 <br><br>
