@@ -80,21 +80,27 @@ Também possuo conhecimentos em desenvolvimento web e software, buscando combina
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/410K%2B-Trailhead%20Points-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="410K+ Trailhead Points">
-<img src="https://img.shields.io/badge/760%2B-Modules-032D60?style=for-the-badge" alt="760+ Modules">
-<img src="https://img.shields.io/badge/47-Superbadges-00A1E0?style=for-the-badge" alt="47 Superbadges">
+<img src="https://img.shields.io/badge/410K%2B-Trailhead%20Points-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="430K+ Trailhead Points">
+<img src="https://img.shields.io/badge/760%2B-Modules-032D60?style=for-the-badge" alt="800+ Modules">
+<img src="https://img.shields.io/badge/47-Superbadges-00A1E0?style=for-the-badge" alt="49 Superbadges">
 <img src="https://img.shields.io/badge/150%2B-Trails-032D60?style=for-the-badge" alt="150+ Trails">
 
 <br><br>
 
-☁️ **410K+ Points** &nbsp; • &nbsp;
-🏅 **47 Superbadges** &nbsp; • &nbsp;
-📚 **760+ Modules** &nbsp; • &nbsp;
+☁️ **430K+ Points** &nbsp; • &nbsp;
+🏅 **49 Superbadges** &nbsp; • &nbsp;
+📚 **800+ Modules** &nbsp; • &nbsp;
 🛤️ **150+ Trails**
 
 <br>
 
 🤖 **Agentblazer Innovator 2025 & 2026**
+
+<br>
+
+<a href="https://trailhead.salesforce.com/pt-BR/credentials/developeroverview">
+  <img src="https://img.shields.io/badge/Salesforce-Certified%20OmniStudio%20Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Certified OmniStudio Developer">
+</a>
 
 </div>
 
